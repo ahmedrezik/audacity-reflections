@@ -1,0 +1,1 @@
+Git creates no commits but creates a hidden file stating with a dot 
