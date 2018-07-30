@@ -1,0 +1,37 @@
+Hello 
+I
+ just 
+learned 
+how 
+to 
+compare 
+between
+ two 
+files 
+in 
+the 
+Mac 
+Terminal 
+using 
+the 
+Diff 
+editor
+
+2) well future mistakes could be avoided by enabling
+Me , the programmer, to check past versions of my code!
+It could also pinpoint me where I needed to improve and 
+Guides me further to avoid mistakes by pointing them out
+
+3) Manual commits come in handy because the programmer is the person mostly 
+Aware when his/her code needs to be saved. Leaving such a judgement to a computer
+Is reckless since they're unreliable unless instructed
+
+4) Multi file commits allow for syncorization throughout the whole project
+
+Git clone git log git diff
+git config --global color.ui auto == colored git
+
+
+5)Git log views to us the history of the file and using the diff command we could view the difference made between two commits on the repository 
+6) I can always get back to any past commit using my git checkout command
+7) I want to use Git to freely explore and experiment  the wilderness of my logical imagination 
